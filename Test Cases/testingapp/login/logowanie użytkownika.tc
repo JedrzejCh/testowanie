@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>weryfikacja nazwy usera</description>
+   <name>logowanie użytkownika</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3bc7083-e811-48f9-9b85-db7952b186ea</testCaseGuid>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description>nazwa użytkownika</description>
+      <id>744a41d2-9b90-4742-9c79-3d9c347eb206</id>
+      <masked>false</masked>
+      <name>user_login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description>hasło użytkownika</description>
+      <id>77e6dd24-b6a1-4431-9eab-b40eb2e3caaa</id>
+      <masked>false</masked>
+      <name>user_password</name>
+   </variable>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>9da8e535-470d-4154-a05a-bef08cc868dd</id>
+      <masked>false</masked>
+      <name>timeDelay</name>
+   </variable>
+</TestCaseEntity>

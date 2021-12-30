@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>dodanie do koszyka</description>
+   <name>dodanie do koszyka</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8056246-8354-45eb-bd15-3fa9455f6852</testCaseGuid>
+   <variable>
+      <defaultValue>'Sauce Labs Backpack'</defaultValue>
+      <description>nazwa wybranego produktu</description>
+      <id>b74f7010-ec4d-420d-8903-8fd3717eb8e4</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description>login</description>
+      <id>549e6c81-b711-4f9a-bf5b-1ffd8f75c3bd</id>
+      <masked>false</masked>
+      <name>user_login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description>hasło</description>
+      <id>d104f381-efb7-41e9-bf0b-ccbdc09924b9</id>
+      <masked>false</masked>
+      <name>user_password</name>
+   </variable>
+</TestCaseEntity>
